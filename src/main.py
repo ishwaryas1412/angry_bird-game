@@ -510,3 +510,4 @@ while running:
     pygame.display.flip()
     clock.tick(50)
     pygame.display.set_caption("fps: " + str(clock.get_fps()))
+    #play and have fun
